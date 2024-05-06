@@ -92,69 +92,69 @@ export const IconStarSolid = createIconComponent(
 
 figma.connect(
   IconArrowDown,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9283"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9283"
 );
 figma.connect(
   IconArrowLeft,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9277"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9277"
 );
 figma.connect(
   IconArrowRight,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9279"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9279"
 );
 figma.connect(
   IconArrowUp,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9281"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9281"
 );
 figma.connect(
   IconBookmark,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9273"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9273"
 );
 figma.connect(
   IconBookmarkSolid,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9297"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9297"
 );
 figma.connect(
   IconCaretLeft,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9285"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9285"
 );
 figma.connect(
   IconCaretRight,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9287"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9287"
 );
 figma.connect(
   IconCaretDown,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9291"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9291"
 );
 figma.connect(
   IconCaretUp,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9289"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9289"
 );
 figma.connect(
   IconCheck,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9295"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9295"
 );
 figma.connect(
   IconClose,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9301"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9301"
 );
 figma.connect(
   IconHeart,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9269"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9269"
 );
 figma.connect(
   IconHeartSolid,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9275"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9275"
 );
 figma.connect(
   IconRefresh,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9293"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9293"
 );
 figma.connect(
   IconStar,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9267"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9267"
 );
 figma.connect(
   IconStarSolid,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9299"
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9299"
 );

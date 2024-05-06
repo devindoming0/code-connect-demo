@@ -3,7 +3,7 @@ import figma from "@figma/code-connect";
 
 figma.connect(
   IconButton,
-  "https://www.figma.com/file/SS2xN8AagXT0ofpo8PNIp9?node-id=9215-9232",
+  "https://www.figma.com/file/ARrDfHiPThb5XGkBRl7YWZ?node-id=9215-9232",
   {
     props: {
       variant: figma.enum("Variant", {
